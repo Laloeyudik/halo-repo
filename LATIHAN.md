@@ -2,7 +2,6 @@
   <h1>🔥LATIHAN | BY KODING GRATIS 🤣</h1>
 </div>
 
-# DevConnect
 
 <div align="center">
   <h1>🌍 DevConnect</h1>
@@ -25,13 +24,6 @@
 
 ## Tabel Konten
 
-- [DevConnect](#devconnect)
-  - [Tabel Konten](#tabel-konten)
-  - [Tentang Proyek](#tentang-proyek)
-  - [Fitur Utama](#fitur-utama)
-  - [Instalasi](#instalasi)
-    - [Prasyarat](#prasyarat)
-    - [Langkah Instalasi](#langkah-instalasi)
 - [Penggunaan](#penggunaan)
 - [Struktur Proyek](#struktur-proyek)
 - [Kontribusi](#kontribusi)
