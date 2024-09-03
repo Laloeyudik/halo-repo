@@ -15,5 +15,9 @@
   <small>28 Juli 2024</small>
   </sub>
 </div>
+<<<<<<< HEAD
+=======
+</div>
+>>>>>>> 881c94bffdda440660ed178b77762921e948d040
 
 ![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Image/logo%20koding%20gratis-01.jpg)
