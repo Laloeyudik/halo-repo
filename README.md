@@ -1,4 +1,3 @@
-===
 <div align="center">
   <h1>📔BELAJAR GITHUB | LATIHAN 🔥</h1>
   <a class="" target="_blank" href="https://github.com/kodinggratis">
@@ -16,7 +15,7 @@
   <small>28 Juli 2024</small>
   </sub>
 </div>
-===
+
 [<< Back](README.md) | [Next >>](LATIHAN.md)
 
 ![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Aseet/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
@@ -24,16 +23,16 @@
 # [7 Hari Belajar github](#7-hari-belajar-github)
 
 1. [⭐ Pendahuluan](#pendahuluan)
-     - [Latar belakang](#pendahuluan-latar-belakang)
-     - [Tujuan](#pendahuluan-tujuan)
-     - [Manfaat](#pendahuluan-manfaat)
-                a. [Untuk Individu](#pendahuluan-manfaat-individu)
-                      - Menambah wawasan dan pengetahuan
-                      - Menambah jam terbang
-                b. [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
-                      - Menambah wawasan dan pengetahuan
-                      - Menambah jam terbang
-                      - Belajar kapan saja dan dimana saja
+    - [Latar belakang](#pendahuluan-latar-belakang)
+    - [Tujuan](#pendahuluan-tujuan)
+    - [Manfaat](#pendahuluan-manfaat)
+            - [Untuk Individu](#pendahuluan-manfaat-individu)
+                - Menambah wawasan dan pengetahuan
+                - Menambah jam terbang
+            - [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
+                - Menambah wawasan dan pengetahuan
+                - Menambah jam terbang
+                - Belajar kapan saja dan dimana saja
 2. [⭐ Bab l](#bab-1)
 3. [⭐ Bab ll](#bab-2)
 4. [⭐ Bab ll](#bab-3)
