@@ -1,1 +1,5 @@
 INI PANDUAN
+
+|Nama|Image|
+|----|-----|
+
