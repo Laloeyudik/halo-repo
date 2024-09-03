@@ -24,6 +24,8 @@
   - [Latar belakang](#pendahuluan-latar-belakang)
   - [Tujuan](#pendahuluan-tujuan)
   - [Manfaat](#pendahuluan-manfaat)
+    - [Untuk Individu](#pendahuluan-manfaat-individu)
+    - [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
 - [⭐ Bab l](#bab-1)
 - [⭐ Bab ll](#bab-2)
 - [⭐ Bab ll](#bab-3)
