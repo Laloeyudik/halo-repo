@@ -18,7 +18,7 @@
 
 [<< Back](README.md) | [Next >>](LATIHAN.md)
 
-![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Image/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
+![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Aseet/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 
 - [⭐ Pendahuluan](#pendahuluan)
   - [Latar belakang](#pendahuluan-latar-belakang)
