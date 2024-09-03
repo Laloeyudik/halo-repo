@@ -52,14 +52,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Untuk Individu
 
-a. Menambah wawasan dan pengetahuan
-b. Menambah jam terbang
+- a. Menambah wawasan dan pengetahuan
+- b. Menambah jam terbang
 
 ### Untuk Banyak Orang
 
-a. Menambah wawasan dan pengetahuan
-b. Menambah jam terbang
-c. Belajar kapan saja dan di mana saja
+- a. Menambah wawasan dan pengetahuan
+- b. Menambah jam terbang
+- c. Belajar kapan saja dan di mana saja
 
 ## Bab I
 
