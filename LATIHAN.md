@@ -10,7 +10,7 @@
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/subscribers/UCKrWI2QHrH4b1WpOgbcg5Uw?style=social">
   </a>
 
-  <sub>Author:
+  <sub>By:
   <a href="https://www.youtube.com/@kodinggratis" target="_blank">Koding Gratis</a><br>
   <small>28 Juli 2024</small>
   </sub>
