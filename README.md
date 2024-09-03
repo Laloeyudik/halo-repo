@@ -24,8 +24,8 @@
   - [Latar belakang](#pendahuluan-latar-belakang)
   - [Tujuan](#pendahuluan-tujuan)
   - [Manfaat](#pendahuluan-manfaat)
-- [⭐ Bab l]
-- [⭐ Bab ll]
-- [⭐ Bab ll]
-- [⭐ Bab lv]
-- [⭐ Bab Penutup]
+- [⭐ Bab l](#bab-1)
+- [⭐ Bab ll](#bab-2)
+- [⭐ Bab ll](#bab-3)
+- [⭐ Bab lv](#bab-4)
+- [⭐ Daftar Pustaka](#daftar-pustaka)
