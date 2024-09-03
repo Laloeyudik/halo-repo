@@ -23,18 +23,19 @@
 # [7 Hari Belajar github](#7-hari-belajar-github)
 
 1. [⭐ Pendahuluan](#pendahuluan)
-    - [Latar belakang](#pendahuluan-latar-belakang)
-    - [Tujuan](#pendahuluan-tujuan)
-    - [Manfaat](#pendahuluan-manfaat)
-            - [Untuk Individu](#pendahuluan-manfaat-individu)
-                - Menambah wawasan dan pengetahuan
-                - Menambah jam terbang
-            - [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
-                - Menambah wawasan dan pengetahuan
-                - Menambah jam terbang
-                - Belajar kapan saja dan dimana saja
-2. [⭐ Bab l](#bab-1)
-3. [⭐ Bab ll](#bab-2)
-4. [⭐ Bab ll](#bab-3)
-5. [⭐ Bab lv](#bab-4)
+   - [Latar Belakang](#pendahuluan-latar-belakang)
+   - [Tujuan](#pendahuluan-tujuan)
+   - [Manfaat](#pendahuluan-manfaat)
+     - [Untuk Individu](#pendahuluan-manfaat-untuk-individu)
+       - a. Menambah wawasan dan pengetahuan
+       - b. Menambah jam terbang
+     - [Untuk Banyak Orang](#pendahuluan-manfaat-untuk-banyak-orang)
+       - a. Menambah wawasan dan pengetahuan
+       - b. Menambah jam terbang
+       - c. Belajar kapan saja dan di mana saja
+2. [⭐ Bab I](#bab-i)
+3. [⭐ Bab II](#bab-ii)
+4. [⭐ Bab III](#bab-iii)
+5. [⭐ Bab IV](#bab-iv)
 6. [⭐ Daftar Pustaka](#daftar-pustaka)
+
