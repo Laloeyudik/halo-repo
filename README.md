@@ -64,6 +64,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Bab I
 
+**CONTOH**
+```js
+let js = 'JavaScript'
+```
+
 ## Bab II
 
 ## Bab III
