@@ -42,7 +42,7 @@
 
 **DevConnect** adalah platform kolaborasi yang dirancang untuk membantu pengembang perangkat lunak dari berbagai tingkat pengalaman untuk terhubung satu sama lain, berbagi ide, dan bekerja sama dalam proyek open-source. Platform ini menawarkan berbagai fitur seperti forum diskusi, ruang proyek bersama, serta pelatihan dan kursus yang dapat diakses oleh semua anggota komunitas.
 
-![DevConnect Banner](https://www.example.com/devconnect-banner.png)
+![DevConnect Banner](https://github.com/Laloeyudik/halo-repo/blob/master/Aseet/1711981616732.png)
 
 ## Fitur Utama
 
