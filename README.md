@@ -16,4 +16,16 @@
   </sub>
 </div>
 
-![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Image/logo%20koding%20gratis-01.jpg)
+[<< Back](README.md) | [Next >>](LATIHAN.md)
+
+![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Image/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
+
+- [⭐ Pendahuluan](#pendahuluan)
+  - [Latar belakang](#pendahuluan-latar-belakang)
+  - [Tujuan](#pendahuluan-tujuan)
+  - [Manfaat](#pendahuluan-manfaat)
+- [⭐ Bab l]
+- [⭐ Bab ll]
+- [⭐ Bab ll]
+- [⭐ Bab lv]
+- [⭐ Bab Penutup]
