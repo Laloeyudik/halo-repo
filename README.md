@@ -75,7 +75,7 @@ let js = 'JavaScript'
 |    No       |  Nama Barang  |    Harga     |
 |:------------|:-------------:|-------------:|
 |     1       |   Baju Kemja  |        $1600 |
-|     2       |    Cell 3     |          $12 |
+|     2       |    Sepatu     |          $12 |
 
 
 ## Bab III
