@@ -9,6 +9,9 @@
   <a class="header-badge" target="_blank" href="https://www.youtube.com/@kodinggratis">
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCKrWI2QHrH4b1WpOgbcg5Uw">
   </a>
+  <a class="header-badge" target="_blank" href="https://www.youtube.com/@kodinggratis">
+ <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/subscribers/UCKrWI2QHrH4b1WpOgbcg5Uw">
+  </a>
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
