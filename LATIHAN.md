@@ -6,6 +6,9 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
+  <a class="header-badge" target="_blank" href="https://www.instagram.com/kodinggratis">
+  <img alt="Twitter Follow" src="https://img.shields.io/instagram/follow/kodinggratis?style=social">
+  </a>
   <a class="header-badge" target="_blank" href="https://www.youtube.com/@kodinggratis">
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCKrWI2QHrH4b1WpOgbcg5Uw">
   </a>
