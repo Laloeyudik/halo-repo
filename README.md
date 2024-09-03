@@ -72,10 +72,10 @@ let js = 'JavaScript'
 ## Bab II
 
 
-| Left column | Center column | Right column |
+|    No       |  Nama Barang  |    Harga     |
 |:------------|:-------------:|-------------:|
-| Cell 1      |   Centered    |        $1600 |
-| Cell 2      |    Cell 3     |          $12 |
+|     1       |   Baju Kemja  |        $1600 |
+|     2       |    Cell 3     |          $12 |
 
 
 ## Bab III
