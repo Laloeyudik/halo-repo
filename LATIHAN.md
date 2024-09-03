@@ -14,6 +14,5 @@
   <a href="https://www.youtube.com/@kodinggratis" target="_blank">Koding Gratis</a><br>
   <small>28 Juli 2024</small>
   </sub>
-  <hr size="1px">
 </div>
 </div>
