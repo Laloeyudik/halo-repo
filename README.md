@@ -22,20 +22,43 @@
 
 # [7 Hari Belajar github](#7-hari-belajar-github)
 
-1. [⭐ Pendahuluan](#pendahuluan)
-   - [Latar Belakang](#pendahuluan-latar-belakang)
-   - [Tujuan](#pendahuluan-tujuan)
-   - [Manfaat](#pendahuluan-manfaat)
-     - [Untuk Individu](#pendahuluan-manfaat-untuk-individu)
-       - a. Menambah wawasan dan pengetahuan
-       - b. Menambah jam terbang
-     - [Untuk Banyak Orang](#pendahuluan-manfaat-untuk-banyak-orang)
-       - a. Menambah wawasan dan pengetahuan
-       - b. Menambah jam terbang
-       - c. Belajar kapan saja dan di mana saja
-2. [⭐ Bab I](#bab-i)
-3. [⭐ Bab II](#bab-ii)
-4. [⭐ Bab III](#bab-iii)
-5. [⭐ Bab IV](#bab-iv)
-6. [⭐ Daftar Pustaka](#daftar-pustaka)
+- [7 Hari Belajar github](#7-hari-belajar-github)
+- [Hari ke-1 Belajar github](#hari-ke-1-belajar-github)
+  - [Latar Belakang](#latar-belakang)
+  - [Tujuan](#tujuan)
+  - [Manfaat](#manfaat)
+    - [Untuk Individu](#untuk-individu)
+    - [Untuk Banyak Orang](#untuk-banyak-orang)
+  - [Bab I](#bab-i)
+  - [Bab II](#bab-ii)
+  - [Bab III](#bab-iii)
+  - [Bab IV](#bab-iv)
+  - [Daftar Pustaka](#daftar-pustaka)
+
+
+# Hari ke-1 Belajar github
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Latar Belakang
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Tujuan
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Manfaat
+### Untuk Individu
+a. Menambah wawasan dan pengetahuan
+b. Menambah jam terbang
+
+### Untuk Banyak Orang
+a. Menambah wawasan dan pengetahuan
+b. Menambah jam terbang
+c. Belajar kapan saja dan di mana saja
+
+## Bab I
+## Bab II
+## Bab III
+## Bab IV
+## Daftar Pustaka
+
 
