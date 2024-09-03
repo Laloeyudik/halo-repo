@@ -26,13 +26,13 @@
      - [Latar belakang](#pendahuluan-latar-belakang)
      - [Tujuan](#pendahuluan-tujuan)
      - [Manfaat](#pendahuluan-manfaat)
-             a. [Untuk Individu](#pendahuluan-manfaat-individu)
-                    - [Menambah wawasan dan pengetahuan]
-                    - [Menambah jam terbang]
-             b. [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
-                    - [Menambah wawasan dan pengetahuan]
-                    - [Menambah jam terbang]
-                    - [Belajar kapan saja dan dimana saja]
+                a. [Untuk Individu](#pendahuluan-manfaat-individu)
+                      - Menambah wawasan dan pengetahuan
+                      - Menambah jam terbang
+                b. [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
+                      - Menambah wawasan dan pengetahuan
+                      - Menambah jam terbang
+                      - Belajar kapan saja dan dimana saja
 2. [⭐ Bab l](#bab-1)
 3. [⭐ Bab ll](#bab-2)
 4. [⭐ Bab ll](#bab-3)
