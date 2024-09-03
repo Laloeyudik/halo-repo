@@ -29,7 +29,6 @@
   - [Tujuan](#tujuan)
   - [Manfaat](#manfaat)
   - [Bab I](#bab-i)
-- [Header 1](#header-1)
   - [Bab II](#bab-ii)
   - [Bab III](#bab-iii)
   - [Bab IV](#bab-iv)
@@ -69,8 +68,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```js
 let js = 'JavaScript'
 ```
-Header 1
-========
 
 ## Bab II
 
