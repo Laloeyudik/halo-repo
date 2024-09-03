@@ -33,8 +33,10 @@
     - [Prasyarat](#prasyarat)
     - [Langkah Instalasi](#langkah-instalasi)
 - [Penggunaan](#penggunaan)
+- [Struktur Proyek](#struktur-proyek)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
+- [Kontak](#kontak)
 
 ## Tentang Proyek
 
@@ -99,6 +101,26 @@ Setelah menginstal dan menjalankan proyek, Anda dapat mulai menjelajahi fitur-fi
 - **Bergabung dengan Diskusi:** Masuk ke halaman forum dan mulai bertanya atau menjawab pertanyaan dari komunitas.
 - **Mengakses Kursus:** Buka tab "Courses" untuk melihat daftar kursus yang tersedia dan memulai pelatihan.
 
+# Struktur Proyek
+
+Berikut adalah struktur direktori utama dari proyek ini:
+
+```plaintext
+
+devconnect/
+├── public/             # Berkas statis dan aset publik
+├── src/
+│   ├── components/     # Komponen React
+│   ├── pages/          # Halaman aplikasi
+│   ├── services/       # Logika bisnis dan API calls
+│   ├── styles/         # Berkas CSS dan SASS
+│   └── utils/          # Fungsi utilitas dan helper
+├── .env                # Berkas konfigurasi lingkungan
+├── package.json        # Informasi proyek dan dependensi
+└── README.md           # Dokumentasi proyek
+
+```
+
 # Kontribusi
 
 Kami sangat terbuka terhadap kontribusi dari siapa saja. Jika Anda tertarik untuk berkontribusi, berikut adalah langkah-langkahnya:
@@ -114,6 +136,19 @@ Harap pastikan kode Anda sesuai dengan [Panduan Gaya kami](https://www.gayapandu
 # Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](https://www.mitlicense.com).
+
+
+# Kontak 
+
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui:
+
+- **Email :**  support@devconnect.com
+- **Github Issus :**  https://github.com/devconnect/devconnect/issues
+- **LinkedIn :** [DevConnect on LinkedIn](https://www.linkinnow.com) 
+
+
+Dokumentasi ini memberikan panduan lengkap mulai dari pengenalan proyek, fitur utama, hingga cara instalasi, penggunaan, kontribusi, lisensi, dan kontak. Struktur ini membantu pengguna dan kontributor untuk memahami dan berinteraksi dengan proyek secara efektif.
+
 
 
 [<< Back](README.md)
