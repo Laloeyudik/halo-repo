@@ -33,6 +33,8 @@
     - [Prasyarat](#prasyarat)
     - [Langkah Instalasi](#langkah-instalasi)
 - [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
 
 ## Tentang Proyek
 
@@ -93,7 +95,25 @@ Pastikan Anda telah menginstal berikut ini:
 
 Setelah menginstal dan menjalankan proyek, Anda dapat mulai menjelajahi fitur-fitur yang ditawarkan oleh DevConnect. Berikut adalah beberapa contoh penggunaan:
 
-- **Membuat Proyek Baru: Klik "Create Project" di dashboard untuk memulai proyek baru dan undang kolaborator.
-**
+- **Membuat Proyek Baru:** Klik "Create Project" di dashboard untuk memulai proyek baru dan undang kolaborator.
+- **Bergabung dengan Diskusi:** Masuk ke halaman forum dan mulai bertanya atau menjawab pertanyaan dari komunitas.
+- **Mengakses Kursus:** Buka tab "Courses" untuk melihat daftar kursus yang tersedia dan memulai pelatihan.
+
+# Kontribusi
+
+Kami sangat terbuka terhadap kontribusi dari siapa saja. Jika Anda tertarik untuk berkontribusi, berikut adalah langkah-langkahnya:
+
+1. Fork repositori ini.
+2. Buat branch baru untuk fitur atau perbaikan bug yang ingin Anda kerjakan.
+3. Lakukan perubahan yang diperlukan.
+4. Kirim pull request dan kami akan meninjau perubahan Anda.
+
+Harap pastikan kode Anda sesuai dengan [Panduan Gaya kami](https://www.gayapanduankami.com).
+
+
+# Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](https://www.mitlicense.com).
+
 
 [<< Back](README.md)
