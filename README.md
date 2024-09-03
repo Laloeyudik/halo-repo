@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📔BELAJAR GITHUB | LATIHAN 🔥</h1>
-  <a class="" target="_blank" href="https://github.com/kodinggratis">
+  <a class="header-badge" target="_blank" href="https://github.com/kodinggratis">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kodinggratis">
   </a>
   <a class="header-badge" target="_blank" href="https://www.youtube.com/@kodinggratis">
@@ -27,8 +27,6 @@
   - [Latar Belakang](#latar-belakang)
   - [Tujuan](#tujuan)
   - [Manfaat](#manfaat)
-    - [Untuk Individu](#untuk-individu)
-    - [Untuk Banyak Orang](#untuk-banyak-orang)
   - [Bab I](#bab-i)
   - [Bab II](#bab-ii)
   - [Bab III](#bab-iii)
@@ -50,16 +48,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Manfaat
 
-### Untuk Individu
+- ### Untuk Individu
 
-- a. Menambah wawasan dan pengetahuan
-- b. Menambah jam terbang
+  - a. Menambah wawasan dan pengetahuan
+  - b. Menambah jam terbang
 
-### Untuk Banyak Orang
+- ### Untuk Banyak Orang
 
-- a. Menambah wawasan dan pengetahuan
-- b. Menambah jam terbang
-- c. Belajar kapan saja dan di mana saja
+  - a. Menambah wawasan dan pengetahuan
+  - b. Menambah jam terbang
+  - c. Belajar kapan saja dan di mana saja
 
 ## Bab I
 
