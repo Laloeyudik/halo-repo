@@ -20,12 +20,14 @@
 
 ![alt text](https://github.com/Laloeyudik/halo-repo/blob/master/Aseet/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 
+# [7 Hari Belajar github](#7-hari-belajar-github)
+
 1. [⭐ Pendahuluan](#pendahuluan)
      - [Latar belakang](#pendahuluan-latar-belakang)
      - [Tujuan](#pendahuluan-tujuan)
      - [Manfaat](#pendahuluan-manfaat)
-       - [Untuk Individu](#pendahuluan-manfaat-individu)
-       - [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
+       a. [Untuk Individu](#pendahuluan-manfaat-individu)
+       b. [Untuk Banyak Orang](#pendahuluan-manfaat-banyak-orang)
 2. [⭐ Bab l](#bab-1)
 3. [⭐ Bab ll](#bab-2)
 4. [⭐ Bab ll](#bab-3)
