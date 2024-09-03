@@ -6,6 +6,7 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
+  ![Instagram Followers](https://www.instagram.com/kodinggratis)
   <a class="header-badge" target="_blank" href="https://www.instagram.com/kodinggratis">
   <img alt="Twitter Follow" src="https://img.shields.io/instagram/follow/kodinggratis?style=social">
   </a>
