@@ -3,3 +3,5 @@ INI PANDUAN
 |Nama|Image|
 |----|-----|
 
+![plot](asset)
+
