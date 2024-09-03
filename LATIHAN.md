@@ -32,6 +32,7 @@
   - [Instalasi](#instalasi)
     - [Prasyarat](#prasyarat)
     - [Langkah Instalasi](#langkah-instalasi)
+- [Penggunaan](#penggunaan)
 
 ## Tentang Proyek
 
@@ -61,7 +62,36 @@ Pastikan Anda telah menginstal berikut ini:
 
    ```bash
    git clone https://github.com/devconnect/devconnect.git
-   
+
    ```
+
+2. Masuk ke direktori proyek:
+   
+  ```bash
+  cd devconnect
+  ```
+
+3. Instal dependensi:
+   
+  ```bash
+  npm install
+
+  ```
+
+4. Jalankan server pengembangan:
+   
+   ```bash
+  npm start
+  ```
+
+5. Buka browser dan akses http://localhost:3000.
+
+
+# Penggunaan
+
+Setelah menginstal dan menjalankan proyek, Anda dapat mulai menjelajahi fitur-fitur yang ditawarkan oleh DevConnect. Berikut adalah beberapa contoh penggunaan:
+
+- **Membuat Proyek Baru: Klik "Create Project" di dashboard untuk memulai proyek baru dan undang kolaborator.
+**
 
 [<< Back](README.md)
