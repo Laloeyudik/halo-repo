@@ -81,7 +81,7 @@ Pastikan Anda telah menginstal berikut ini:
 
 4. Jalankan server pengembangan:
    
-   ```bash
+  ```bash
   npm start
 
   ```
