@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>BELAJAR GITHUB | LATIHAN 🔥</h1>
+  <h1>📔BELAJAR GITHUB | LATIHAN 🔥</h1>
   <a class="header-badge" target="_blank" href="https://github.com/kodinggratis">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kodinggratis">
   </a>
